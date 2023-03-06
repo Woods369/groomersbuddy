@@ -1,7 +1,5 @@
-Welcome to the repository for the Groomer's Buddy Wep Application. 
-
 # Groomers Buddy #
-## Web Application ##
+Welcome to the Groomers Buddy Web Application repository.
  
 # Introduction #
 This web application will provide services to pet groomers in several areas of their business. These are but not limited to:- 
